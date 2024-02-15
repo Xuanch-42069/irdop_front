@@ -1,10 +1,5 @@
-
 var LANGUAGES = ['vi', 'en'];
 var DEFAULT_LANG = 'vi';
-
-BILRD_ids.UNI_HEADER_VI = 'iQIcyPNviESYvNAKgBvcgA';
-BILRD_ids.UNI_HEADER_EN = '4XndrJYLCEekWE7EAwD4cw';
-
 
 function hide_el (el) {
     // add display-none class

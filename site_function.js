@@ -1,6 +1,7 @@
 var LANGUAGES = ['vi', 'en'];
 var DEFAULT_LANG = 'vi';
 
+
 function hide_el (el) {
     // add display-none class
     el.classList.add('display-none');

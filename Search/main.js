@@ -1,6 +1,6 @@
 var PAGES = {};
 var BILRD_ids = {};
-console.log("test from git ddddd");
+console.log("test from git eeeeeeeee");
 
 class ROOT {
     constructor(current_brf) {

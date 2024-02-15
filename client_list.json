@@ -1,0 +1,1077 @@
+[
+    {
+        "id": 2,
+        "client_name": "Công ty Cổ phần Warrantek",
+        "client_address": "",
+        "submission_details": []
+    },
+    {
+        "id": 15,
+        "client_name": "CÔNG TY TNHH KHOA HỌC TSL",
+        "client_address": "592A Cộng Hòa, phường 13, Quận Tân Bình, TP.HCM",
+        "submission_details": [
+            {
+                "submission_person_name": "CÔNG TY TNHH KHOA HỌC TSL",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "client_name": "CÔNG TY CỔ PHẦN KHOA HỌC CÔNG NGHỆ AVATEK",
+        "client_address": "66/122 đường Bình Thành, phường Bình Hưng Hòa B, quận Bình Tân, TP.HCM",
+        "submission_details": [
+            {
+                "submission_person_name": "Đào Ngân",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "client_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN RMG",
+        "client_address": "485-LK27, 28 đường Lê Trọng Tấn, phường Dương Nội, quận Hà Đông, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 18,
+        "client_name": "CÔNG TY CỔ PHẦN KIỀM SAPHIA",
+        "client_address": "số 27 ngách 1 ngõ 104 đường Việt Hưng, phường Việt Hưng, quận Long Biên, thành phố Hà Nội, VIệt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 19,
+        "client_name": "Dư Thị Nụ",
+        "client_address": "485-LK27, 28 đường Lê Trọng Tấn,phường Dương Nội, quận Hà Đông, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 20,
+        "client_name": "Công Ty TNHH MTV C'est Bon Bakery",
+        "client_address": "Tầng 2 , Toàng nhà Packexim, 49 ngõ 15 đường An Dương Vương, Phường Phú Thượng, Quận Tây Hồ, Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 24,
+        "client_name": "Công ty TNHH Đông Dược Phúc Minh",
+        "client_address": "Tầng 1, số nhà 2, ngõ 249, khu dân cư Văn Quán, Đường Chiến Thắng, Phường Văn Quán, Quận Hà Đông, Thành phố Hà Nội, Việt Nam",
+        "submission_details": [
+            {
+                "submission_person_name": "Lê Thị Thắm_0934424796",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "client_name": "Hợp tác xã nông - công nghiệp và thương mại - du lịch Than Uyên",
+        "client_address": "Xóm mới - xã Mường Cang - huyện Than Uyên - Lai Châu",
+        "submission_details": []
+    },
+    {
+        "id": 37,
+        "client_name": "Công ty TNHH Dược phẩm quốc tế TTB Group",
+        "client_address": "lô CN4, cụm công nghiệp Minh Lăng, xã Minh Lăng, huyện Vũ Thư, tỉnh Thái Bình",
+        "submission_details": []
+    },
+    {
+        "id": 38,
+        "client_name": "Công Ty Cổ Phần Sản Xuất Trà Dược Liệu Ngọc Anh",
+        "client_address": "Xóm 11 Xã Trực Hùng, Trực Ninh, Nam Định",
+        "submission_details": []
+    },
+    {
+        "id": 39,
+        "client_name": "Công ty cổ phần thảo dược O.K.B",
+        "client_address": "17/22 Đường số 3, tổ 296, Phường Bình Hưng Hòa A, Quận Bình Tân, Thành phố Hồ Chí Minh",
+        "submission_details": []
+    },
+    {
+        "id": 40,
+        "client_name": "Công ty TNHH Bút Vàng Hà Nội",
+        "client_address": "143B ngõ 180 Nguyễn Lương Bằng, phường Quang Trung, quận Đống Đa, Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Vũ Văn Lâm",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "client_name": "VĂN PHÒNG ĐẠI DIỆN HARKER HERBALS (INTL) LIMITED TẠI THÀNH PHỐ HÀ NỘI",
+        "client_address": "TT01A-2 Khu nhà ở thấp tầng thuộc Dự án chung cư quốc tế Hoàng Thành City tại khu Cổ Ngựa, khu đô thị Mỗ Lao, phường Mộ Lạo, thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 42,
+        "client_name": "Công ty Cổ phần hoá dược và công nghệ sinh học Biogreen - Chi nhánh Bắc Giang",
+        "client_address": "Tổ dân phố Chẽ, Thị trấn Phồn Xương, Huyện Yên Thế, Tỉnh Bắc Giang",
+        "submission_details": []
+    },
+    {
+        "id": 43,
+        "client_name": "Công ty cổ phần sản xuất thực phẩm Madam Hằng",
+        "client_address": "DV13-K23, Khu B đất dịch vụ, tổ dân phố số 17, phường Yên Nghĩa, quận Hà Đông, Thành Phố Hà Nội, Việt Nam\n",
+        "submission_details": [
+            {
+                "submission_person_name": "0962413790",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "client_name": "Công ty TNHH SX và TM Hiệp Hưng",
+        "client_address": "Số 5 đường Cô Bắc, phường Lê Lợi, TP Bắc Giang, Tỉnh Bắc Giang",
+        "submission_details": []
+    },
+    {
+        "id": 45,
+        "client_name": "Vi Văn Vần",
+        "client_address": "Thôn phời 3, xã Tả Thời, TP. Lào Cai",
+        "submission_details": []
+    },
+    {
+        "id": 46,
+        "client_name": "Vi Văn Phang",
+        "client_address": "Thôn phời 3, xã Tả Thời, TP. Lào Cai",
+        "submission_details": []
+    },
+    {
+        "id": 48,
+        "client_name": "Nga",
+        "client_address": "Thanh Xuân, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 49,
+        "client_name": "Trung tâm nghiên cứu dâu tằm trung ương",
+        "client_address": "318 Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Tp. Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 60,
+        "client_name": "aa",
+        "client_address": "aa",
+        "submission_details": [
+            {
+                "submission_person_name": "undefined",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            },
+            {
+                "submission_person_name": "undefined",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "client_name": "Công ty cổ phần Jen and p switzerland",
+        "client_address": "số 6a phố tây sơn, phường điện biên, quận ba đình, thành phố  Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 62,
+        "client_name": "Công ty Cổ phần Thu Hằng Food Việt Nam",
+        "client_address": "Số 306, tổ 1, phố Phú Viên, phường Bồ Đề, quận Long Biên, thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 64,
+        "client_name": "CÔNG TY TNHH LEBO VN",
+        "client_address": "19E4 Đường DD4, Khu dân cư An Sương, Khu phố 4, Phường Tân Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 65,
+        "client_name": "Công ty TNHH Thảo Dược Phẩm Lộc Trần",
+        "client_address": "Số 2/2/25 đường Yên Hòa, Tổ 14, Phường Yên Nghĩa, Hà Đông, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 66,
+        "client_name": "Hợp tác xã đảo Ngọc Xanh",
+        "client_address": "Thôn Bình Hải, Xã Ngọc Vừng, Huyện Vân Đồn, Quảng Ninh",
+        "submission_details": []
+    },
+    {
+        "id": 67,
+        "client_name": "Quách Thị Tùng Diệp",
+        "client_address": "Tân Hợp, Sơn Bình, Tam ĐƯờng, Lai Châu",
+        "submission_details": []
+    },
+    {
+        "id": 68,
+        "client_name": "CÔNG TY TNHH MEDIPHAR USA",
+        "client_address": "Ấp Bình Tiền 2, Xã Đức Hòa Hạ, Huyện ĐỨc Hòa, Tỉnh Long An",
+        "submission_details": []
+    },
+    {
+        "id": 69,
+        "client_name": "Anh long",
+        "client_address": "SN 36 ngõ 68 Xuân Thủy Cầu Giấy, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 73,
+        "client_name": "ttttt",
+        "client_address": "jnljnljn",
+        "submission_details": [
+            {
+                "submission_person_name": "1111",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "client_name": "Công ty dược phẩm và thương mại Phương Đông",
+        "client_address": "TS 509, tờ bản đồ số 01, CCN Hạp Lĩnh- P. Hạ Lĩnh-TP. Bắc Ninh- T. Bắc Ninh, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 75,
+        "client_name": "Vũ Văn Quý",
+        "client_address": "Đòn Đào, Phù Cừ, Hưng Yên",
+        "submission_details": [
+            {
+                "submission_person_name": "Vũ Văn Quý",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "client_name": "Công ty TNHH CTKF Việt Nam",
+        "client_address": "21 Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Lại Tuấn Anh",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "client_name": "Trần Thùy Phương",
+        "client_address": "Khối Trung Sơn, Thị Trấn Kim Sơn, Huyện Quế Phong, Tỉnh Nghệ An",
+        "submission_details": [
+            {
+                "submission_person_name": "Trần Thùy Dương",
+                "report_method_in_person": false,
+                "report_method_courier_address": "Khối Trung Sơn, Trấn Kim Sơn, Huyện Quế Phong, Tỉnh Nghệ An",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "client_name": "Đỗ Văn Dũng",
+        "client_address": "Số 2 Chợ Gạo, Hàng Buồm, Hoàn Kiếm, Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Đỗ Văn Dũng - 001090023400",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "client_name": "Công ty Cổ phần Warrantek",
+        "client_address": "Lô A39-26, đường Nguyễn Văn Cừ, ấp Mỹ Phước, xã Mỹ Khánh, Huyện Phòng Điền, Thành phố Cần Thơ",
+        "submission_details": []
+    },
+    {
+        "id": 80,
+        "client_name": "Công ty Cổ phần Giang Sơn",
+        "client_address": "Thôn Liên Cơ, Đông Tâm, Yên Thế, Bắc Giang",
+        "submission_details": [
+            {
+                "submission_person_name": "Cô Tâm",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "client_name": "Công ty TNHH An Sơn",
+        "client_address": "Số nhà 1, ngõ 610 đương Đặng Châu Tuệ, Phường Quang Hanh, Thành Phố Cẩm Phả",
+        "submission_details": []
+    },
+    {
+        "id": 82,
+        "client_name": "Công ty cổ phần mỹ phẩm thiên nhiên Song An",
+        "client_address": "Số 225 phố Trần Đăng Ninh, Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",
+        "submission_details": [
+            {
+                "submission_person_name": "Vân 042198011543",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "client_name": "Hợp tác xã bún phở Quỳnh Niên",
+        "client_address": "Tiểu khu2, Thị Trấn Nà Phặc, huyện Ngân Sơn, tỉnh Bắc Kạn",
+        "submission_details": []
+    },
+    {
+        "id": 84,
+        "client_name": "Bánh nướng Hà Thị Tươi",
+        "client_address": "Tiểu khu III, Thị trấn Nà Phặc, huyện Ngân Sơn, Tỉnh Bắc Kạn",
+        "submission_details": []
+    },
+    {
+        "id": 85,
+        "client_name": "Hợp tác xã Tân Việt Dũng",
+        "client_address": "TDP Hòa Bình, thị trấn Bố Hạ, huyện Yên Thế, tỉnh Bắc Giang, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 86,
+        "client_name": "Phạm Thị Thủy",
+        "client_address": "Trung Đông, Trực Ninh, Nam Định",
+        "submission_details": []
+    },
+    {
+        "id": 88,
+        "client_name": "CÔNG TY CỔ PHẦN THỰC PHẨM DAPFOOD",
+        "client_address": "Lô A2 - CN3, Khu CN Từ Liêm, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 89,
+        "client_name": "CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN CÔNG NGHỆ DƯỢC PHẨM ĐÔNG Á",
+        "client_address": "Khu Công nghiệp Quế Võ, Phường Phương Liễu, Thị xã Quế Võ, Tỉnh Bắc Ninh",
+        "submission_details": []
+    },
+    {
+        "id": 90,
+        "client_name": "Công ty cổ phần Delta TST",
+        "client_address": "19 Tập thể cơ khí Giải Phóng, xã Thanh Liệt, Thanh Trì, Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Nguyễn Ngọc Tú",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "client_name": "Công ty TNHH Xuất nhập khẩu Kitchen World",
+        "client_address": "84 Xuân Phương, Phương Canh, Nam Từ Liêm, Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Trần Thị Hà Trang",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "client_name": "CÔNG TY CỔ PHẦN NHÀ MÁY THIẾT BỊ Y HỌC VÀ VẬT LIỆU SINH HỌC",
+        "client_address": "I-4B-2.1, Đường N3, Khu công nghệ cao , Phường Long Thạnh Mỹ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 93,
+        "client_name": "Công ty cổ phần tập đoàn Golden Gate - Chi nhánh miền Bắc",
+        "client_address": "Tầng 6, tòa nhà Toyota 315 Trường Trinh, Phường Khương Mai, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+        "submission_details": [
+            {
+                "submission_person_name": "Lê Thị Thảo",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "client_name": "Công ty Quế hồi Việt Nam - VINA SAMEX,JSC",
+        "client_address": "Thôn Vàng, xã Cổ Bi, huyện Gia Lâm, Tp. Hà Nội, Việt Nam",
+        "submission_details": [
+            {
+                "submission_person_name": "Phùng Phương Anh",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "client_name": "Công ty cổ phần OTV HITECH",
+        "client_address": "Số 5, LK5-TT2, khu nhà ở 96-96B, phố Nguyễn Huy Tưởng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 96,
+        "client_name": "Công ty Cổ phần sản xuất thương mại nông nghiệp Việt Nam",
+        "client_address": "Tầng 5, tòa nhà M5, số 91 Nguyễn Chí Thanh, phường Láng Hạ, quận Đống Đa, Hà Nội,",
+        "submission_details": []
+    },
+    {
+        "id": 97,
+        "client_name": "Công ty TNHH tập đoàn Ruby's World",
+        "client_address": "Số 121 Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Thành phố Hà Nội, Việt Nam",
+        "submission_details": [
+            {
+                "submission_person_name": "Vũ Thị Tầm",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "client_name": "Công Ty Cổ Phần Go Fresh Việt Nam",
+        "client_address": "Thôn Hoàng Mai Liên, xã Liêm Phong, huyện Thanh Liêm, tỉnh Hà Nam",
+        "submission_details": []
+    },
+    {
+        "id": 100,
+        "client_name": "Nguyễn Thị Ánh Nguyệt",
+        "client_address": "Nhà A30, 18 Hoàng Quốc Việt, phường Nghĩa Đô, quận Cầu Giấy, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 102,
+        "client_name": "Trầm hương Thiên An",
+        "client_address": "Ngách 59 ngõ 252 Tây Sơn, Trung Liệt, Đống Đa, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 103,
+        "client_name": "Công ty TNHH xây dựng và phát triển Thanh Phong",
+        "client_address": "Tổ 4, khu 8, Phường Cẩm Thành, Thành phố Cẩm Phả, Tỉnh Quảng Ninh, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 104,
+        "client_name": "Phạm Thị Duyên",
+        "client_address": "",
+        "submission_details": [
+            {
+                "submission_person_name": "Phan Thị Duyên- 0906218989",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "client_name": "Hợp tác xã Nông Nghiệp Năm Tầng",
+        "client_address": "Đoài Thôn, Đông Sơn, Bỉm Sơn, Thanh Hóa",
+        "submission_details": []
+    },
+    {
+        "id": 106,
+        "client_name": "Hộ kinh doanh Phạm Thị Duyên",
+        "client_address": "Trường tiểu học Kim Chung, xã Kim Chung, huyện Đông Anh, Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "02617201805",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "client_name": "Cơ sở sản xuất và kinh doanh chè Nhật Thức",
+        "client_address": "Xóm Khuôn 2 - Xã Phục Linh - Huyện Đại Từ - Tỉnh Thái Nguyên",
+        "submission_details": []
+    },
+    {
+        "id": 109,
+        "client_name": "Công ty TNHH Dược Phẩm V & S Việt Nam",
+        "client_address": "Số 9 nghách 8 ngõ 163 đường Nguyễn Khang, tổ 29 phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 112,
+        "client_name": "Công ty Cổ phần Dược Phẩm Công nghệ cao Abipha",
+        "client_address": "",
+        "submission_details": []
+    },
+    {
+        "id": 113,
+        "client_name": "Nguyễn Thị Ngọc Loan",
+        "client_address": "Trường THPT B Bình Lục, huyện Bình Lục, tỉnh Hà Nam",
+        "submission_details": [
+            {
+                "submission_person_name": "Nguyễn Thị Ngọc Loan, CCCD: 037184004123",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            },
+            {
+                "submission_person_name": "Chị Lan",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "client_name": "Công ty dược phẩm và thương mại Phương đông - (TNHH)",
+        "client_address": "TS 509, tờ bản đồ số 01, CCN Hạp Lĩnh-P. Hạp Lĩnh - Tp. Bắc Ninh - T. Bắc Ninh, Việt Nam",
+        "submission_details": [
+            {
+                "submission_person_name": "Công ty dược phẩm và thương mại Phương Đông",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "client_name": "Nhóm trẻ Mặt trời Phương Mai",
+        "client_address": "Số 120 đường 6 KM, thôn Phương Trạch - Vĩnh Ngọc - Đông Anh - Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "001186048711",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "client_name": "Phạm Quang Sơn",
+        "client_address": "Trường PTDTBT TH & THCS Tà Xi Láng (Thôn Xá Nhù, xã Tà Xi Láng, huyện Trạm Tấu, tỉnh Yên Bái)",
+        "submission_details": []
+    },
+    {
+        "id": 117,
+        "client_name": "Hoàng Tiến Phúc",
+        "client_address": "Trường THCS Hoàng Văn Thụ (Tổ 10, phường Quan Triều, thành phố Thái Nguyên, tỉnh Thái Nguyên)",
+        "submission_details": []
+    },
+    {
+        "id": 118,
+        "client_name": "CÔNG TY TNHH NGUYÊN LIỆU DƯỢC PHẨM BIG HERBALIFE",
+        "client_address": "Tâng 6, Số 39 phố Nguyễn Xiển, phường Hạ Đình, quận Thanh Xuân, thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 119,
+        "client_name": "Viện Kỹ thuật Phòng không- Không quân",
+        "client_address": "Số 166 Hoàng Văn Thái- Khương Mai- Thanh Xuân- Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Lê Thanh Niêm",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "client_name": "Công ty TNHH Đầu tư và Công nghệ Sắc Thái",
+        "client_address": "Tổ 71 đường Đê La Thành, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 121,
+        "client_name": "CÔNG TY TNHH NGUYÊN LIỆU DƯỢC PHẨM BIG HERBALIFE",
+        "client_address": "Tâng 6, Số 39 phố Nguyễn Xiển, phường Hạ Đình, quận Thanh Xuân, thành phố Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 122,
+        "client_name": "Công ty TNHH Dược Phẩm V & S Việt Nam",
+        "client_address": "Số 9 ngách 8 ngõ 163 đường Nguyễn Khang, tổ 29 phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 123,
+        "client_name": "Công ty TNHH Thương mại và Dịch vụ Sa Yến",
+        "client_address": "Tầng 1, số nhà 03 ngõ 98 Thái Hà, phường Trung Liệt, quận Đống Đa, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 124,
+        "client_name": "Công ty Cổ Phần Công nghệ mới Nhật Hải",
+        "client_address": "42BT2 Bán đảo Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 125,
+        "client_name": "Công ty TNHH Phong Thuần",
+        "client_address": "Khu đô thị Châu Sơn, phường Châu Sơn, thành phố Phủ Lý, Hà Nam",
+        "submission_details": []
+    },
+    {
+        "id": 126,
+        "client_name": "Tẩn Tả Mẩy - Hợp tác xã Cộng đồng Dao Đỏ",
+        "client_address": "Thôn Tả Chải, xã Tả Phìn, thị xã Sa Pa, tỉnh Lào Cai",
+        "submission_details": []
+    },
+    {
+        "id": 127,
+        "client_name": "CÔNG TY CỔ PHẦN LIÊN DOANH KANGAROO QUỐC TẾ",
+        "client_address": "Khu công nghiệp Tân Quang, Xã Tân Quang, Huyện Văn Lâm, Tỉnh Hưng Yên, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 128,
+        "client_name": "Triệu Thanh Hà",
+        "client_address": "Lớp 9b trường PTDTNT THCS Hòa An, huyện Hòa An, tỉnh Cao Bằng",
+        "submission_details": []
+    },
+    {
+        "id": 129,
+        "client_name": "Viện kiểm nghiệm và kiểm định chất lượng VNTEST",
+        "client_address": "Số 7, ngách 168/21 Nguyễn Xiển, phường Hạ Đình, quận Thanh Xuân, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 130,
+        "client_name": "Công ty Cổ phần Lâm Y Dược Bắc Sơn",
+        "client_address": "Số 1182, đường Hoàng Hoa Thám, xã Song Mai, thành phố Bắc Giang, tỉnh Bắc Giang",
+        "submission_details": []
+    },
+    {
+        "id": 131,
+        "client_name": "Trung tâm Kiểm nghiệm thuốc - thực phẩm và nghiên cứu ứng dụng",
+        "client_address": "Cụm công nghiệp Trường An, xã An Khánh, Huyện Hoài Đức, Thành Phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 132,
+        "client_name": "VIỆN MÔI TRƯỜNG VÀ PHÁT TRIỂN BỀN VỮNG",
+        "client_address": "P510, Nhà E1, Khu Ngoại giao đoàn Trung Tự, số 6 Đặng Văn Ngữ, quận Đống Đa, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 133,
+        "client_name": "Công ty TNHH TM & DV DƯỢC PHẨM G24",
+        "client_address": "Số nhà 10B, ngõ 223, Đường Lý Bôn, tổ 6, Phường Tiền Phong, Thành Phố Thái Bình, Tỉnh Thái Bình, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 135,
+        "client_name": "Viện Cây lương thực và Cây thực phẩm",
+        "client_address": "Liên Hồng, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "submission_details": []
+    },
+    {
+        "id": 136,
+        "client_name": "Viện Công nghiệp thực phẩm",
+        "client_address": "Số 301 Đường Nguyễn Trãi, phường Thanh Xuân Trung, quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+        "submission_details": [
+            {
+                "submission_person_name": "Lê Thị Thắm",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            },
+            {
+                "submission_person_name": "Chị thắm",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            },
+            {
+                "submission_person_name": "Chị thắm",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "client_name": "Nguyễn Thành Long",
+        "client_address": "Hoàng Quốc Việt, Cầu Giấy, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 139,
+        "client_name": "CÔNG TY TNHH XUẤT NHẬP KHẨU TRANG THY",
+        "client_address": "Thôn Đá, Xã Dương Xá, Huyện Gia Lâm, Thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 140,
+        "client_name": "Công ty TNHH Giám Định Thăng Long Control",
+        "client_address": "Số 59 ngõ 175 phố Định Công, phường Định Công, quận Hoàng Mai, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 144,
+        "client_name": "Công ty TNHH MCT",
+        "client_address": "Thôn Phúc Cẩm, xã Văn Tiến, huyện Yên Lạc, tỉnh Vĩnh Phúc",
+        "submission_details": []
+    },
+    {
+        "id": 145,
+        "client_name": "Dương Anh Trung",
+        "client_address": "Trường THPT Kỳ Lâm - Kỳ Anh -  Hà Tĩnh",
+        "submission_details": []
+    },
+    {
+        "id": 146,
+        "client_name": "HỘ KINH DOANH TIỆM BÁNH THẢO NGUYÊN",
+        "client_address": "Tổ dân phố số 4, thị trấn Quán Hành, huyện Nghi Lộc, tỉnh Nghệ An",
+        "submission_details": []
+    },
+    {
+        "id": 147,
+        "client_name": "CÔNG TY TNHH CÔNG NGHỆ NHONHO",
+        "client_address": "K2-17, đường Võ Nguyên Giáp, Phú Thứ, Cái Răng, Cần Thơ",
+        "submission_details": []
+    },
+    {
+        "id": 149,
+        "client_name": "CÔNG TY CỔ PHẦN HÓA DƯỢC BIGTECH",
+        "client_address": "T17. Cụm sản xuất làng nghề tập trung, Xã Kiêu Kỵ, Huyện Gia Lâm, Thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 151,
+        "client_name": "HỢP TÁC XÃ DÂU TÂY XUÂN QUẾ",
+        "client_address": "Số 32, bản Xuân Quế, xã Cò Nòi, Mai Sơn, Sơn La",
+        "submission_details": []
+    },
+    {
+        "id": 152,
+        "client_name": "Shop ăn vặt dinh dưỡng",
+        "client_address": "Số 25, ngách 43, ngõ 108 Trần phú, Mỗ Lao, Hà Đông, Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Nguyễn Thị Hiền",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "client_name": "Nguyễn Thị Phương Thảo",
+        "client_address": "Trường THCS Bình Dương – thị xã Đông Triều – Quảng Ninh",
+        "submission_details": []
+    },
+    {
+        "id": 154,
+        "client_name": "HỘ KINH DOANH PHAN PHONG",
+        "client_address": "Xóm 7, Xã Nghi Diên, Huyện Nghi Lộ, Tỉnh Nghệ An",
+        "submission_details": []
+    },
+    {
+        "id": 155,
+        "client_name": "HỘ KINH DOANH BÁNH MỲ LAN ANH",
+        "client_address": "Xóm Xuân Lộc, Xã Nghi Xuân, Huyện Nghi Lộc, Tỉnh Nghệ An",
+        "submission_details": []
+    },
+    {
+        "id": 156,
+        "client_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN SIOR",
+        "client_address": "Số 12, ngách 12/27, Tổ dân phố Tân Xuân 3, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Thành phố Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 157,
+        "client_name": "Nguyễn Quang Tùng",
+        "client_address": "Trường Đại học Công nghiệp Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Nguyễn Quang Tùng",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            },
+            {
+                "submission_person_name": "Nguyễn Quang Tùng / 017067000005",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "client_name": "Công ty TNHH Thực Phẩm Nông Trang",
+        "client_address": "Số 6 LK 1 KĐT Văn Phú, Phú La, Hà Đông, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 159,
+        "client_name": "Công ty Cổ phần Dược mỹ phẩm CVI",
+        "client_address": "Lô đất CN1-08B-3 KCN cao 1, Km 29 đại lộ Thăng Long, xã Thạch Hoà, huyện Thạch Thất, Thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 160,
+        "client_name": "Công ty TNHH Xuất nhập khẩu Kitchen World",
+        "client_address": "18A, Đường Đồng Bát, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 161,
+        "client_name": "HỘ KINH DOANH VŨ VĂN DƯƠNG",
+        "client_address": "Số 376 đường ga, Tổ 14, Phường Quang Trung, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "submission_details": []
+    },
+    {
+        "id": 162,
+        "client_name": "HỘ KINH DOANH VŨ VĂN PHONG",
+        "client_address": "Số 641, tổ 11, Phường Phan Đình Phùng, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "submission_details": []
+    },
+    {
+        "id": 163,
+        "client_name": "TRUNG TÂM KIỂM NGHIỆM TSL- CHI NHÁNH CÔNG TY TNHH KHOA HỌC TSL",
+        "client_address": "592A Cộng Hoà, phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "submission_details": []
+    },
+    {
+        "id": 164,
+        "client_name": "HỘ KINH DOANH KHÁNH TOÀN",
+        "client_address": "45 Thọ Am, Liêm Ninh, Thanh Trì, Hà Nội",
+        "submission_details": [
+            {
+                "submission_person_name": "Hà",
+                "report_method_in_person": true,
+                "report_method_courier_address": "",
+                "report_method_email": "",
+                "report_method_zalo": ""
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "client_name": "CÔNG TY CỔ PHẦN PTK VIETNAM",
+        "client_address": "Tòa nhà PTK, Thị trấn Lim, Huyện Tiên Du, Tỉnh Bắc Ninh",
+        "submission_details": []
+    },
+    {
+        "id": 167,
+        "client_name": "Hợp tác xã Nông Công nghiệp và Thương mại Du lịch Than Uyên",
+        "client_address": "Xóm Mới,xã Mường Cang, huyện Than Uyên, tỉnh Lai Châu.",
+        "submission_details": []
+    },
+    {
+        "id": 168,
+        "client_name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI SẢN XUẤT DA NGUYÊN HỒNG",
+        "client_address": "Thôn Nà Loòng, xã Tân Mỹ, huyện Văn Lãng, tỉnh Lạng Sơn",
+        "submission_details": []
+    },
+    {
+        "id": 169,
+        "client_name": "Công ty Cổ phần Nam Việt",
+        "client_address": "Khối phố 2, Phố Cò, Sông Công, Thái Nguyên, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 170,
+        "client_name": "CÔNG TY TNHH TM & DV HẢI TÂM",
+        "client_address": "Thôn 5, Ninh Sơn, Ninh Hoà, Khánh Hoà.",
+        "submission_details": []
+    },
+    {
+        "id": 171,
+        "client_name": "Công ty TNHH Minh Hiền",
+        "client_address": "Cụm công nghiệp Bích Hoà, Xã Bích Hoà, Huyện Thanh Oai, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 172,
+        "client_name": "CÔNG TY TNHH HOÀNG DƯƠNG HM",
+        "client_address": "Số 9, ngõ 99, Phố Trung Liệt, Quận Đống Đa, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 173,
+        "client_name": "Công ty TNHH HCT Farm",
+        "client_address": "Số 4, Đường Nguyễn Thái Bình, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "submission_details": []
+    },
+    {
+        "id": 174,
+        "client_name": "HỘ KINH DOANH TUẤN HOA",
+        "client_address": "Xóm Bắc Sơn 1, Xã Nghi Quang, Huyện Nghi Lộc, Tỉnh Nghệ An",
+        "submission_details": []
+    },
+    {
+        "id": 176,
+        "client_name": "Trung tâm kiểm nghiệm TSL Hà Nội - Chi nhánh công ty TNHH Khoa học TSL",
+        "client_address": "Số 17, liền kề Shophouse D1 tại Khu D, khu đô thị mới Lê Trọng Tấn, phường Dương Nội, quận Hà Đông, thành phố Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 178,
+        "client_name": "Công ty TNHH Xuất Nhập Khẩu Minh Đăng",
+        "client_address": "Khu 5, TT Tứ Trưng, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "submission_details": []
+    },
+    {
+        "id": 179,
+        "client_name": "Chi cục An toàn vệ sinh thực phẩm Hải Dương",
+        "client_address": "Số 150 Quang Trung, phường Quang Trung, thành phố Hải Dương, tỉnh Hải Dương",
+        "submission_details": []
+    },
+    {
+        "id": 180,
+        "client_name": "CÔNG TY TNHH CỔ PHƯƠNG HƯƠNG MỘC AN",
+        "client_address": "Số 73 Xương Giang, Phường Ngô Quyền, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "submission_details": []
+    },
+    {
+        "id": 181,
+        "client_name": "Nguyễn Hữu Hạnh, Vườn Quốc gia Hoàng Liên",
+        "client_address": "SN 89, đường Nguyễn Chí Thanh, phường Phan Si Păng, TX Sa Pa, tỉnh Lào Cai",
+        "submission_details": []
+    },
+    {
+        "id": 182,
+        "client_name": "Vũ Đức Quyền, Vườn Quốc gia Hoàng Liên",
+        "client_address": "SN 89, Đường Nguyễn Chí Thanh, phường Phan Si Păng, Tx Sa Pa, tỉnh Lào Cai",
+        "submission_details": []
+    },
+    {
+        "id": 183,
+        "client_name": "Viện cơ điện nông nghiệp và công nghệ sau thu hoạch",
+        "client_address": "60 Trung Kính, Trung Hoà, Cầu Giấy, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 184,
+        "client_name": "Vũ Duy Kiên, Công ty TNHH Nông nghiêp hữu cơ KL Việt Nam",
+        "client_address": "156, đường Lý Tự Trọng, phường Xương Giang, thành phố Bắc Giang",
+        "submission_details": []
+    },
+    {
+        "id": 185,
+        "client_name": "HỘ KINH DOANH KIỀU OANH BAKERY",
+        "client_address": "Xóm Khánh Trang, Xã Nghi Xuân, Huyện Nghi Lộc, Tỉnh Nghệ An, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 186,
+        "client_name": "Ngô Hoàng Linh, Trung tâm ứng dụng tiến bộ khoa học và công nghệ Nghệ An",
+        "client_address": "75B đường Nguyễn Thị Minh Khai, thành phố Vinh, tỉnh Nghệ An",
+        "submission_details": []
+    },
+    {
+        "id": 187,
+        "client_name": "CÔNG TY CỔ PHẦN DANMARK",
+        "client_address": "Số L1-06, thôn Thượng, xã Thanh Liệt, huyện Thanh Trì, thành phố Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 188,
+        "client_name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI XUẤT NHẬP KHẨU HUY THỊNH PHÁT",
+        "client_address": "Số 3B ngõ 26 phố Cư Lộc, phường Thương Đình, quận Thanh Xuân, thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 189,
+        "client_name": "CÔNG TY CỔ PHẦN DƯỢC MỸ PHẨM WECAN",
+        "client_address": "Tầng 03-04, Số B7/D6 ngõ 56 Trương Công Giai, phường Dịch Vọng, quận Cầu Giấy, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 190,
+        "client_name": "Tô Đình Phúc",
+        "client_address": "113 ngách 175/5 Định Công, Hoàng Mai, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 191,
+        "client_name": "TRẦN ĐỨC TOẢN",
+        "client_address": "Cụm công nghiệp Hà Bình Phương, Xác Văn Bình, huyện Thường Tín, thành phố Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 192,
+        "client_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ LÀM ĐẸP LANAMY",
+        "client_address": "Số 06 Hàng Mắm, phường Lý Thái Tổ, quận Hoàn Kiếm, thành phố Hà Nội, Việt Nam",
+        "submission_details": []
+    },
+    {
+        "id": 193,
+        "client_name": "TRUNG TÂM NGHIÊN CỨU VÀ PHÁT TRIỂN NẤM",
+        "client_address": "Đường Phạm Văn Đồng, Cổ Nhuế I, Bắc Từ Liêm, Hà Nội",
+        "submission_details": []
+    },
+    {
+        "id": 194,
+        "client_name": "Công ty TNHH Chế biến và Xuất khẩu Nông Lâm Sản Lạng Sơn",
+        "client_address": "Thôn Lạng Giai A, xã Nhân Lý, huyện Chi Lăng, thành phố Lạng Sơn, tỉnh Lạng Sơn",
+        "submission_details": []
+    }
+]
